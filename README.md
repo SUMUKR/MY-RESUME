@@ -6,7 +6,7 @@ Welcome to my resume repository.
 Advanced AI/ML Engineer | Generative AI | Agentic AI | Cybersecurity
 
 ## Resume
-[View My Resume](./resume.html)
+[View My Resume](./index.html)
 
 ## Technologies
 - C, C++, Java, Python
